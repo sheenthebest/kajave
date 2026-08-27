@@ -1,0 +1,2 @@
+:HL["/kajave/_next/static/chunks/2747j0fj-2hlr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"xhH4S4p1-5y2qJhkRKN9R"}

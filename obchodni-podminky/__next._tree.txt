@@ -1,0 +1,8 @@
+:HL["/kajave/_next/static/chunks/2747j0fj-2hlr.css","style"]
+:HL["/kajave/_next/static/media/81cef6a21128489e-s.p.2csanl8cs02r-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kajave/_next/static/media/8efc8f1d3487cb3e-s.p.0cdipm-rdm5tz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kajave/_next/static/media/98801cf37d7dc04b-s.p.3mg7f7nlgjeh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kajave/_next/static/media/9b8f0e32b229dbc1-s.p.0dguglgc-iz4q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kajave/_next/static/media/a1060a1839927841-s.p.1-b_8fvpe4ovj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kajave/_next/static/media/c21a2eca08f35f4a-s.p.3y6ss_-mpz4a6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"d","key":"obchodni-podminky","siblings":["api"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"xhH4S4p1-5y2qJhkRKN9R"}
