@@ -1,3 +1,5 @@
 User-Agent: *
-Disallow: /
+Allow: /
+Disallow: /api/
 
+Sitemap: https://kajave.cz/sitemap.xml
